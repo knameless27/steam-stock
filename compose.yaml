@@ -1,0 +1,6 @@
+﻿services:
+  steamstock:
+    image: steamstock
+    build:
+      context: .
+      dockerfile: SteamStock/Dockerfile
