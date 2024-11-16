@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SteamStock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adccfe03c9fabb025fe7698fe70e28e1ad8a9e52")]
 [assembly: System.Reflection.AssemblyProductAttribute("SteamStock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SteamStock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kuro/RiderProjects/SteamStock/SteamStock/SteamStock.csproj": {}
+    "/home/kuro/work/RiderProjects/SteamStock/SteamStock/SteamStock.csproj": {}
   },
   "projects": {
-    "/home/kuro/RiderProjects/SteamStock/SteamStock/SteamStock.csproj": {
+    "/home/kuro/work/RiderProjects/SteamStock/SteamStock/SteamStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kuro/RiderProjects/SteamStock/SteamStock/SteamStock.csproj",
+        "projectUniqueName": "/home/kuro/work/RiderProjects/SteamStock/SteamStock/SteamStock.csproj",
         "projectName": "SteamStock",
-        "projectPath": "/home/kuro/RiderProjects/SteamStock/SteamStock/SteamStock.csproj",
+        "projectPath": "/home/kuro/work/RiderProjects/SteamStock/SteamStock/SteamStock.csproj",
         "packagesPath": "/home/kuro/.nuget/packages/",
-        "outputPath": "/home/kuro/RiderProjects/SteamStock/SteamStock/obj/",
+        "outputPath": "/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
