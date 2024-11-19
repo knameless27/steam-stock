@@ -1,0 +1,15 @@
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/bin/Debug/net9.0/SteamStock
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/bin/Debug/net9.0/SteamStock.deps.json
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/bin/Debug/net9.0/SteamStock.runtimeconfig.json
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/bin/Debug/net9.0/SteamStock.dll
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/bin/Debug/net9.0/SteamStock.pdb
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.GeneratedMSBuildEditorConfig.editorconfig
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.AssemblyInfoInputs.cache
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.AssemblyInfo.cs
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.csproj.CoreCompileInputs.cache
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.sourcelink.json
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.dll
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/refint/SteamStock.dll
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.pdb
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/SteamStock.genruntimeconfig.cache
+/home/kuro/work/RiderProjects/SteamStock/SteamStock/obj/Debug/net9.0/ref/SteamStock.dll
