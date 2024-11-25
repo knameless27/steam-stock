@@ -24,3 +24,5 @@ This project is an inventory management system designed for warehouses, develope
    ```bash
    git clone https://github.com/your-username/steam-stock.git
    cd steam-stock
+
+## [Database Scheme](https://dbdiagram.io/d/steam-stock-6743d975e9daa85aca8ef9c4)
